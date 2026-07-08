@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
+
+/*chaining selectors work only if an element contains every chained selector,
+chaining them on css means to write classes as selectors without spces*/
