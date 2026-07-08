@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.container p{
+    background-color: rgb(239, 247, 4);
+    color: rgb(247, 4, 4);
+    font-size: 20px;
+    text-align: center;
+}
+
+/* descendant combinators work by using class or type selectors,
+by using the parent selector next to the the descendant selector
+only separated by a space
+
+you can combine them type and class or viceversa, just like in 
+this example*/
